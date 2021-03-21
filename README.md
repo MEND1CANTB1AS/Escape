@@ -17,12 +17,11 @@ familiarize myself with.
 
 # Useful Websites
 
-https://www.textures.com/
-https://docs.unrealengine.com/en-US/index.html
+* https://www.textures.com/
+* https://docs.unrealengine.com/en-US/index.html
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-Finish the game
-Add more interactive elements
-Push to Github LFS
+* Finish the game
+* Add more interactive elements
+* Push to Github LFS
