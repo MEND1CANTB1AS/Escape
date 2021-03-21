@@ -11,9 +11,9 @@ familiarize myself with.
 
 # Development Environment
 
-Unreal Engine 4
-C++
-C
+* Unreal Engine 4
+* C++
+* C
 
 # Useful Websites
 
